@@ -5,6 +5,10 @@
 
 https://acropolisthebot.netlify.app/
 
+계약
+
+https://docs.google.com/document/d/1g8F7wiXbDI3kkACuPV4GW3JZDHxAirSc58LIpZOSpvM/edit?usp=sharing
+
 ## index
 + <a href="#개요">개요</a>
 
